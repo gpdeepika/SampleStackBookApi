@@ -1,0 +1,1 @@
+Package "com.spring.config" - mainly for spring and hibernate configurations
